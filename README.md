@@ -1,4 +1,5 @@
 # 🎓 Basirhat College Updates Bot
+<img width="360" height="360" alt="WhatsApp Image 2026-10-10 at 8 11 16 AM" src="https://github.com/user-attachments/assets/ead67539-e9ed-43e7-bf50-6d9f999e7fa3" />
 
 A production-ready Telegram bot for **Basirhat College** ([@basirhatcollege_updates_bot](https://t.me/basirhatcollege_updates_bot)) that keeps students and staff updated with notices, class routines, results, syllabus, study materials, and important links — all with a full-featured admin panel for broadcasting and content management.
 
@@ -223,6 +224,7 @@ pm2 startup
 - **Webhook** (`BOT_MODE=webhook`) — requires a public HTTPS URL (`WEBHOOK_URL`). Better suited to platforms like Render/Railway that give you a stable public domain. The Express route at `WEBHOOK_PATH` receives updates and forwards them to the bot.
 
 ---
+<img width="360" height="360" alt="WhatsApp Image 2026-10-10 at 8 11 17 AM" src="https://github.com/user-attachments/assets/2d5876ec-410b-4f20-9b02-af4e2bdfe1fc" />
 
 ## 🧑‍💻 Development
 
